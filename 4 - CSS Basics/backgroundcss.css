@@ -1,0 +1,10 @@
+.color-example{
+    background-color: rgba(31, 186, 31, 0.597)
+}
+.background-example {
+    background-image: url('butiki.jpg');
+    height: 200px;
+    width: 200px;
+    background-position: center;
+    opacity: 1;
+}
